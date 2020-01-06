@@ -1,0 +1,60 @@
+Name	Elevation	Location	Last eruption
+metres	feet	Coordinates
+Atherton Volcano	—	—	17.5°S 144.5°E	Less than 100,000 years ago[1]
+Lake Barrine	730	—	17.2°S 145.4°E	>17,000 years ago[1]
+Bauhinia Volcano	—	—	24.8°S 149.5°E	23–25 million years ago
+Brisbane Volcano	—	—	27.7°S 152.6°E	16–62 million years ago
+Buckland	—	—	—	—
+Bundaberg Volcano	—	—	—	—
+Cookie Mountains	—	—	50.9°S 151.8°E	23 million years ago
+Chudleigh Volcano	—	—	10.5°S 144.2°E	250,000 years ago
+Lake Eacham	—	—	17.2°S 145.6°E	>9,000 years ago[1]
+Malanda Volcano	1200	—	17.5°S 145.5°E	3 million years ago
+Mount Fox	—	—	18.50°S 145.47°E	—
+Mount Hay	—	—	—	—
+Fraser Volcano			25.0°S 153.35°E	31 million years ago[2]
+Hillsborough Volcano	—	—	21.0°S 149.0°E	33.2 million years ago
+Sloping Hummock	90	—	24°50'33?S 152°25'35?E	—
+The Crater (Mount Hypipamee)	1,000	—	17.2°S 145.2°E	—
+Kinrara Volcano	—	—	18.3°S 144.6°E	7,000 years ago[3]
+Main Range Volcano	—	—	27.9°S 152.4°E	23–27 million years ago[4]
+Mount Le Brun	—	—	25°35'52?S 151°54'32?E	Over 600,000 years ago
+Mount McBride	911	—	18.3°S 144.6°E	1.7 million years ago
+McLean Volcano	—	—	15.8°S 144.8°E	Less than 1 million years ago
+Mingela	—	—	—	—
+Mitchell Volcano	—	—	26.0°S 148.2°E	21–24 million years ago
+Monto	—	—	—	—
+Nebo Volcano	—	—	21.4°S 148.2°E	28–35 million years ago
+Nulla Volcano	—	—	19.7°S 145.3°E	13,000 years ago
+Piebald Volcano	417	—	15.1°S 145.1°E	Less than 3 million years ago
+Rockhampton Volcano	—	—	23.3°S 150.4°E	67–71 million years ago
+Springsure	600	—	24.0°S 148.1°E	24–33 million years ago
+Sturgeon Volcano	—	—	20.3°S 144.2°E	92,000 years ago
+Toomba	—	—	19.5°S 145.0°E	21,000 years ago[3]
+Undara Crater	1,020	3,345	18.25°S 144.75°E	189,000 years ago[3]
+Wallaroo Volcano	—	—	18.0°S 145.4°E	Less than 5 million years ago
+Mount Barney, Focal Peak Volcano	1,359	4,958	28.17°S 152.42°E	—
+Campbells Folly	—	—	—	—
+Mount Pie	—	—	—	—
+Mount Glennie	—	—	—	—
+Levers Plateau	—	—	—	—
+Glass House Mountains	—	—	—	26-27 million years ago[2]
+Mount Beerburrum	276	—	26.7°S 152.9°E	26–27 million years ago
+Mount Beerwah	556	—	26.7°S 152.9°E	26–27 million years ago
+Mount Coochin	235	—	26.7°S 152.9°E	26–27 million years ago
+Mount Cooee	—	—	26.7°S 152.9°E	26–27 million years ago
+Mount Coonowrin	377	—	26.7°S 152.9°E	26–27 million years ago
+Mount Elimbah	129	—	26.7°S 152.9°E	26–27 million years ago
+Mount Horogargan	—	—	26.7°S 152.9°E	26–27 million years ago
+Mount Miketeebumulgrai	199	—	26.7°S 152.9°E	26–27 million years ago
+Mount Ngungun	253	—	26.7°S 152.9°E	26–27 million years ago
+Round Mountain	—	—	26.7°S 152.9°E	26–27 million years ago
+Mount Tibberoowuccum	220	—	26.7°S 152.9°E	26–27 million years ago
+Mount Tibrogargan	364	—	26.7°S 152.9°E	26–27 million years ago
+Mount Tunbubudla	312	—	26.7°S 152.9°E	26–27 million years ago
+Wild Horse Mountain	123	—	26.7°S 152.9°E	26–27 million years ago
+Peak Range	—	—	—	—
+Anvil Peak	—	—	22.8°S 148.0°E	27–35 million years ago
+Browns Peak	807	—	22.8°S 148.0°E	27–35 million years ago
+Table Mountain	—	—	22.8°S 148.0°E	27–35 million years ago
+Murray Island	200	656	10.0°S 144.0°E	1 million years ago

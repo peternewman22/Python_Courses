@@ -1,0 +1,36 @@
+
+#:import random random
+
+# define rules for different classes
+
+<ScatterTextWidget>:
+    orientation: 'vertical'#: -> this is all python
+    TextInput:
+        id: my_textinput
+        font_size: 150
+        size_hint_y: None
+        height: 200
+        text: 'default'
+        ## event handler, every property has this
+        #on_text: root.change_label_colour() #root refers to the top level of the widget tree
+        # alt method
+        on_text: my_label.color = [random.random() for i in range(3)] + [1]
+    FloatLayout:
+        Scatter:
+            Label:
+                id: my_label
+                text: my_textinput.text + str(my_textinput.font_size)
+                font_size: 150
+                color : [1, 0 , 0, 1]
+    BoxLayout:
+        orientation: 'horizontal'
+        size_hint_y: None
+        height : 150
+        Label:
+            text: my_textinput.text[:3][::-1]
+            font_size: 50
+        Label:
+            text: my_textinput.text[-3:][::-1]
+            font_size: 50
+
+# can only refer to Kivy properties

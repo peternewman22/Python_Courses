@@ -1,0 +1,3 @@
+Here is the link for the iPython Notebook Viewer:
+
+http://nbviewer.ipython.org/github/jmportilla/Udemy-notes/tree/master/
