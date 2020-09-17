@@ -11,7 +11,7 @@ class Const(Enum):
     trackbar_filter = 'filter'
 
 
-def dummy():
+def dummy(value):
     pass
 
 original_img = cv2.imread(Const.Img.value)
