@@ -13,7 +13,7 @@ def prep_values_from_csv(csv_fn):
         next(reader) # skips over the header row
         values = []
         for l in reader:
-            values.append((int(l[0]),l[1],l[2],l[3],l[4],datetime.strptime(l[5],"%d/%m/%Y")))
+            values.append((int(l[0]),l[1],l[2],l[3],l[4],datetime.strptime(l[5],"%d/%m/%Y").date()))
         return tuple(values)
         
 
@@ -54,19 +54,19 @@ def main():
     cur1.close()
     db1.close()
 
-    # print("Logging into tutors")
-    # db2 = psycopg2.connect(f"dbname=Tutoring user={USER} password={PASSWORD} port=5433")
-    # cur2 = db2.cursor()
-    # print("Successfully logged into the database")
-    # cur2.executemany("INSERT INTO tutors (id,first_name,surname,phone_number,email,dob) VALUES (%s, %s, %s, %s, %s, %s)",rows)
-    # # print("committing changes")
-    # # cur2.commit()
+    print("Logging into tutors")
+    db2 = psycopg2.connect(f"dbname=Tutoring user={USER} password={PASSWORD} port=5433")
+    cur2 = db2.cursor()
+    print("Successfully logged into the database")
+    cur2.executemany("INSERT INTO tutors (id,first_name,surname,mobile,email,dob, start_date, end_date) VALUES (%s, %s, %s, %s, %s, %s, %s, %s)",rows)
+    print("committing changes")
+    db2.commit()
 
-    # cur2.execute("SELECT * FROM tutors")
-    # new_data = cur2.fetchall()
-    # print(new_data)
-    # cur2.close()
-    # db2.close()
+    cur2.execute("SELECT * FROM tutors")
+    new_data = cur2.fetchall()
+    print(new_data)
+    cur2.close()
+    db2.close()
 
 
 if __name__=="__main__":
